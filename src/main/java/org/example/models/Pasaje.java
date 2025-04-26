@@ -10,7 +10,7 @@ public class Pasaje {
     private Vuelo vueloDeVuelta;
     private RegimenDeHospedaje regimenDeHospedaje;
     private ClaseDeVuelo claseDeVueloIda;
-    private ClaseDeVuelo claseDeVueloVelta;
+    private ClaseDeVuelo claseDeVueloVuelta;
     private Date fechaDeLlegada;
     private Date fechaDeSalida;
 
