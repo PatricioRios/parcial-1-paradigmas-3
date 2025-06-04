@@ -15,3 +15,4 @@ public class Pasaje {
     private Date fechaDeSalida;
 
 }
+
