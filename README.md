@@ -10,3 +10,5 @@ Alumnos:
 
 ![Ejercicio 1](images/diagram.svg)
 
+![Ejercicio 1 resuelto](images/examen%20paradigmas%203-solved.webp)
+
