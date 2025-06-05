@@ -7,4 +7,4 @@ public class Hotel {
     private Integer plazasDisponibles;
     
     private Direccion direccion;
-}
+}   

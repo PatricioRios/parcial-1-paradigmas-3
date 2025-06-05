@@ -4,11 +4,12 @@ import java.util.Date;
 
 public class Pasaje {
     
+    //atributos propios
     private Integer codigoDePasaje;
     private Date fechaDeLlegada;
     private Date fechaDeSalida;
     
-    
+    //atributos de relacion
     private ClaseDeVuelo claseDeVueloIda;
     private ClaseDeVuelo claseDeVueloVuelta;
     
